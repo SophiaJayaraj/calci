@@ -1,6 +1,8 @@
+print ("Hello World")
+print ("This is my github freature branch")
 import calci
 
-print("===== Simple Calculator =====")
+print("Simple calci ")
 
 a = float(input("Enter first number: "))
 operator = input("Enter operator (+, -, *, /): ")
